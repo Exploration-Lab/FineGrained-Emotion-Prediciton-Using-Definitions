@@ -10,3 +10,7 @@ python run_def_nsp-mlm.py --taxonomy 'config file name'
 
 ## Instructions for combined setup(CDP+MLM)<br/>
 python run_def_nsp-mlm.py --taxonomy 'config file name'
+
+## Reference
+https://github.com/monologg/GoEmotions-pytorch
+https://huggingface.co/
